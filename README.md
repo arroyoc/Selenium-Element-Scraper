@@ -2,7 +2,8 @@
 Selenium Element Scraper is designed to return to you a list of elements from webpage that you specify.  
 
 
-Prerequisites:
+Prerequisites:  
+Install python2.7 (Make sure the python exe is in your system PATH)  
 Install Selenium Webdriver  
 Element_Scraper is using PhantomDriver (Make sure you have PhantomDriver installed and that the exe is in your PATH)  
 
