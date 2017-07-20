@@ -18,6 +18,7 @@ python Element_Scraper.py
 You will then be prompted for a URL:
 
 URL: http://chrisarroyo.me
+
 id = navbarNavAltMarkup
 id = learnBtn
 id = githubLnk
