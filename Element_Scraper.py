@@ -11,6 +11,6 @@ id_elements = driver.find_elements_by_xpath("//*[@id]")
 
 for eachElement in id_elements:
     individual_ids = eachElement.get_attribute("id")
-    print(individual_ids)
+    print(output_id + individual_ids)
 
 
