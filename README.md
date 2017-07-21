@@ -1,6 +1,8 @@
 # Selenium-Element-Scraper
 Selenium Element Scraper is designed to return to you a list of elements from webpage that you specify.  
 
+When creating selenium test cases some people including myself find it very tidous to inspect each element that was want to retrive. The point of this project is to automate farming web elements and attributes. 
+
 
 Prerequisites:  
 Install python2.7 (Make sure the python exe is in your system PATH)  
