@@ -1,7 +1,6 @@
 
 ghostdriver.log
-.idea/misc.xml
-.idea/modules.xml
-.idea/Sel_Scraper.iml
-.idea/workspace.xml
 *.pyc
+
+# IDEs
+/.idea
