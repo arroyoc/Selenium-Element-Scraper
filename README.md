@@ -21,7 +21,7 @@ python Element_Scraper.py
 
 You will then be prompted for a URL:
 
-URL: http://chrisarroyo.me  
+URL: http://chrisarroyo.info  
 
 id = navbarNavAltMarkup  
 id = learnBtn  
